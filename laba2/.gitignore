@@ -1,0 +1,5 @@
+*.resx
+
+*.vcxproj*
+
+x64/
